@@ -1,8 +1,12 @@
 
-Johnny Mak (40002140)
+Johnny Mak
 Comp 477 - Computer Animations
 Assignment #2
 
+
+This assignment is based off the result of the first assignment. Using the model given in the first assignment, we must implement a system allowing the user to create an animation using keyframes. The keyframes are interpolated in four different methods: regular transofmration matrices, Euler angles, Quaternions (Linear Interpolation), and Quaternions (Spherical Linear Interpolation).
+
+You may view the intructions PDF included for more details. 
 
 Input: 
 
